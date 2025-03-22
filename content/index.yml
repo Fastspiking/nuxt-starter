@@ -5,7 +5,7 @@ hero:
   imageAlt: Nuxt logo and title on abstract background
   buttons:
     - label: Get Started Today
-      url: https://www.netlify.com/
+      url: https://www.indcro.com/
 logos:
   title: Trusted by the world's best
   icons:
@@ -15,8 +15,8 @@ logos:
     - name: i-simple-icons-google
     - name: i-simple-icons-netlify
 features:
-  title: Why choose Nuxt.js?
-  description: Nuxt.js is a powerful framework built on top of Vue.js that provides an excellent developer experience.
+  title: Safety Pharmacology & Toxicology
+  description: The International Council for Harmonisation (ICH) guidelines E14, S7B, and S7A are critical frameworks for assessing the safety of new pharmaceuticals, particularly regarding their potential effects on the cardiovascular system.
   items:
     - title: Server-Side Rendering
       description: Nuxt.js allows you to build SSR applications with Vue.js, ensuring fast initial page loads and better SEO.
